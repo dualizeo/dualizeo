@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dualizeo
 - 👀 I’m interested in Developing Systems to improve humanity :)
-- 🌱 I’m currently learning Non-Profit Organization Development, Web Development, Javascript, Unreal Engine, Designing Software
-- 💞️ I’m looking to collaborate on building an organization together (:
+- 🌱 I’m currently learning Self-Hosting, Non-Profit Development, Javascript, Unreal Engine, Designing Software & Web Developer enthusiast since 2003
 - 📫 How to reach me by typing my name at @gmail.com
 
 <!---
