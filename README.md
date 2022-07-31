@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 This would gain developers more support from contributions to their project!
 It might be a bit more of extra work but Simple documentation goes a long way to have more people joining your community to grow 🌱 it's simple as that.
 
-Here is a simple example:
+example:
 - 😀New Users Guide ( motivated people wanting to use )
 - 😉Community Guide ( people wanting to know more )
 - 😎Developers Guide ( people wanting to help the community )
