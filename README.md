@@ -10,7 +10,7 @@ dualizeo/dualizeo is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-The only thing that sadens me in this github commuinity are developers being condesending to newcomers, assuming new people joining will know all the in's and out details to start using their software.
+The only thing that saddens me in this github commuinity are developers being condesending to newcomers, assuming new people joining will know all the in's and out details to start using their software.
 
  There is a memorable company out there that is successful->🍎 they make things without judgement "easy to use, easy to understand" they don't assume people know how to "compile" "export variables" "memorize terminal commands"
 
