@@ -19,3 +19,8 @@ Memorizing is a thing of the past, it's called Cognitive Offloading.
 If developers cared about their projects, they would take the time to provide documentation, beginner friendly (Inspire people) as if you were to explain this to a child, since some of us are brand new to systems. Sometimes we don't have enough time and would prefer to get to where we need to (using your software) and that will results in happy users!
 This would gain developers more support from contributions to their project!
 It might be a bit more of extra work but Simple documentation goes a long way to have more people joining your community to grow 🌱 it's simple as that.
+
+Here is a simple example:
+😀New Users Guide ( motivated people wanting to use )
+😉Community Guide ( people wanting to know more )
+😎Developers Guide ( people wanting to help the community )
