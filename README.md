@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dualizeo
 - 👀 I’m interested in making systems to improve humanity :)
 - 🌱 Currently learning Self-Hosting & PHP, Web Developer enthusiast since 2003
-- 📫 How to reach me by typing my name at @gmail.com
+- 📫 How to reach me by typing my github name at @gmail.com
 
  😸 Attempting to build a non-profit organization!
 
