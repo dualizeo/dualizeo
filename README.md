@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
  Memorizing is a thing of the past, it's called Cognitive Offloading.
 
  If developers cared for their projects, they would take the time to provide documentation, beginner friendly (Inspire people) as if you were to explain this to a child, since some people are brand new to the systems. Sometimes we don't have enough time to understand the entire complex build and would rather prefer to get to where we need to (using your software) which will result in higher project stars.
-This would gain developers more support from contributions to their project!
+This would gain developers more support and contributions to their project!
 It might be a bit more of extra work but Simple documentation goes a long way to have more people joining your community to grow 🌱
 
 example:
