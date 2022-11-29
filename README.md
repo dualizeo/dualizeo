@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dualizeo
 - 👀 I’m interested in making systems to improve humanity :)
-- 🌱 Systems Admin & Web Developer since 2003
+- 🌱 Systems Admin & Web Developer enthusiast since 2003
 
  😸 Attempting to build a non-profit organization!
 
